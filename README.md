@@ -1,7 +1,6 @@
 # TastyNest 🍽️
 
 **TastyNest** is a dynamic and user-friendly food recipe web application developed using **HTML**, **CSS**, **PHP**, **MySQL**, and **Bootstrap**. It allows users to browse, search, add, update, and delete recipes while providing admin functionalities for managing content and users.
-
 ---
 
 ## 🌟 Features
